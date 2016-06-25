@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.4014337
+color:
+  saturation: 0.2878906
+  lightness: 0.5832621
+  brandStrength: 1
+  brandColors:
+    - '#FAFFDC'
+    - '#21B3B7'
+    - '#A5F5CC'
+    - '#117781'
+    - '#9EA885'
+  rhythmicContrast: 0.4725805
+name: My Next Adventure Travel Tips
